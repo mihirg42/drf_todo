@@ -1,6 +1,8 @@
 # env file
 .env
-venv/
+myvenv/
+.venv/
+.idea
 
 # Node modules
 node_modules/
@@ -103,3 +105,4 @@ target/
 *fcm/
 
 .github/
+.DS_Store
